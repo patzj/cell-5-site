@@ -1,7 +1,11 @@
 {
-  "main.css": "static/css/main.0fd06f33.css",
-  "main.css.map": "static/css/main.0fd06f33.css.map",
-  "main.js": "static/js/main.e8078036.js",
-  "main.js.map": "static/js/main.e8078036.js.map",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg"
+  "main.css": "static/css/main.5f8eec67.css",
+  "main.css.map": "static/css/main.5f8eec67.css.map",
+  "main.js": "static/js/main.608d13c5.js",
+  "main.js.map": "static/js/main.608d13c5.js.map",
+  "static/media/cell5-logo-2.svg": "static/media/cell5-logo-2.22537abb.svg",
+  "static/media/github.svg": "static/media/github.ea8bb7f4.svg",
+  "static/media/gmail.svg": "static/media/gmail.e5a7e7a9.svg",
+  "static/media/linkedin.svg": "static/media/linkedin.bc8e55bb.svg",
+  "static/media/twitter.svg": "static/media/twitter.93a9fd6a.svg"
 }
